@@ -1,0 +1,31 @@
+
+----------------------------------------------------
+Nombre = Mario Herrero
+Email = herrero54_9917c@gmail.com
+Contraseña = RU1&5CnhBFosPLgYBg
+Fecha de nacimiento = 26/8/1996
+Genero = Hombre
+----------------------------------------------------
+Nombre = Fernanda Vazquez
+Email = vazquez5yl_4uur@gmail.com
+Contraseña = hUIgAVPexwzMyFI%v4
+Fecha de nacimiento = 4/12/1988
+Genero = Mujer
+----------------------------------------------------
+Nombre = Valeria Calvo
+Email = calvoreev4vh7@gmail.com
+Contraseña = UcVMqJN9Qk<W<xbaLU
+Fecha de nacimiento = 7/5/1988
+Genero = Mujer
+----------------------------------------------------
+Nombre = Constanza Cortes
+Email = cortes8m-n2p5g@gmail.com
+Contraseña = WxTgsIVu73bevaV3IZ
+Fecha de nacimiento = 8/2/1996
+Genero = Mujer
+----------------------------------------------------
+Nombre = Joaquin Crespo
+Email = cresporv0bv2px@gmail.com
+Contraseña = 4F8QHlHhH=R6N>r+Ar
+Fecha de nacimiento = 13/1/1986
+Genero = Hombre
